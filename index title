@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Cats vs. Dogs</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Cats vs. Dogs</h1>
+  <p>A website comparing and contrasting cats and dogs.</p>
+</body>
+</html>
