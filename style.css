@@ -4,3 +4,8 @@ body {
   max-width: 800px;
   padding: 0 10px 0 10px;
 }
+
+img {
+  border-radius: 25%;
+  max-width: 50%;
+  margin: 0 auto;  
