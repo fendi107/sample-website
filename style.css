@@ -9,3 +9,8 @@ img {
   border-radius: 25%;
   max-width: 50%;
   margin: 0 auto;  
+}
+
+cite {
+  background-color: purple;
+}
